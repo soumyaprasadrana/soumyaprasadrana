@@ -60,8 +60,8 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=linux&logoColor=ffffff)
-![Bash](http://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=bash&logoColor=ffffff)
-![AIX](http://img.shields.io/badge/-AIX-0078D6?style=flat-square&logo=aix&logoColor=ffffff)
+![Bash](http://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=shell&logoColor=ffffff)
+
 
 <br/>
 
