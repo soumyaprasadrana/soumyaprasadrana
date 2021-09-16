@@ -4,7 +4,8 @@
 
 ## I'm a Level 3 Software Engineer  
 
-- 👨‍💻 I’m currently working on a ITSM project and on a small web project using JAVA, Node and Angular .
+- 👨‍💻 I’m currently working on a ITSM project.
+- ⚡ Working on a small web project using JAVA, Node and Angular 2+ .
 - 📚 I’m trying to learn as much as I can both in Devlopment and DevOps part.
 - ⚡ I have working knowledge on Docker Container architecture,I have been a part of production level kubernetes orchastration designing .
 - 💪🏼 Future Goals: Learn new technologies explore the world of microservices.
